@@ -1,0 +1,9 @@
+[Desktop Entry]
+
+Type=Application
+
+Name=testboot
+
+NoDisplay=false
+
+Exec=node /home/pi/rasp/dist/main.js
